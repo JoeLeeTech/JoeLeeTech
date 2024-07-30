@@ -21,7 +21,7 @@
   - SQL injection is a technique that inserts a string of text(s) to send certain commands that communicate with the backend database to exploit sensitive data from the database, modify database data, and / or gain administrative privileges at the root. This can be done through the user
     interface as well as through the terminal.
 - <b> Cross-Site Request Forgery (CSRF) Attack </b>
-  - [Personal Portfolio Website](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
+  - [Cross-Site Request Forgery (CSRF) Attack Lab ](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
   - A technique that deceives victims from malicious requests by inheriting the identity and certain privileges to perform a certain output on the victim’s behalf. Users’ session cookie, IP address, window domain credentials are ways websites identify the specific credentials associated with
     the website. When users’ credentials are authenticated to that website, they cannot distinguish between the forged request and a legitimate request where the threat actor can perform certain functions.
 - <b> Buffer-Overflow Vulnerability Lab </b>
