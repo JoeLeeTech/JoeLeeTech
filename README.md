@@ -27,8 +27,10 @@
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
       
   - <b> Cross-Site Request Forgery (CSRF) Attack </b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
+    - [Personal Portfolio Website](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
+    - A technique that deceives victims from malicious requests by inheriting the identity and certain privileges to perform a certain output on the victim’s behalf. Users’ session cookie, IP address, window domain credentials are ways websites identify the specific credentials associated with
+      the website. When users’ credentials are authenticated to that website, they cannot distinguish between the forged request and a legitimate request where the threat actor can perform certain functions.
+
   - <b>NMAP Lab </b>
     - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
