@@ -5,50 +5,35 @@
   
 <h2>🔐 Cybersecurity Labs:</h2>
 
-  - <b> Cryptography Lab (Secret Key Encryption) </b>
-    - [Cryptography Lab (Secret Key Encryption)](https://github.com/JoeLeeTech/CryptographySecretKeyEncryption-Lab)
-    - Types of Algorithm(s)
-      1) Advanced Encryption Standard = aes
-      2) Data Encryption Standard = des (Designed to encrypt / decrypt utilizing 8-byte blocks and 64-bit key)
-      3) Blowfish = bf (Utilizes variable size key and is a block cipher which operates with 64-bit of data)
-    - Types of Mode(s)
-      1) Electronic Code Book = ecb
-      2) Cipher Block Chaining = cbc
-      3) Cipher Feedback = cfb
-      4) Output Feedback = ofb
-         
-  - <b> SQL Injection (SQLi) Lab </b>
-    - [SQL Injection (SQLi Lab)](https://github.com/JoeLeeTech/SQLInjection-SQLi-)
-    - SQL injection is a technique that inserts a string of text(s) to send certain commands that communicate with the backend database to exploit sensitive data from the database, modify database data, and / or gain administrative privileges at the root. This can be done through the user
-      interface as well as through the terminal.
-      
-  - <b> Buffer-Overflow Vulnerability Lab </b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-      
-  - <b> Cross-Site Request Forgery (CSRF) Attack </b>
-    - [Personal Portfolio Website](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
-    - A technique that deceives victims from malicious requests by inheriting the identity and certain privileges to perform a certain output on the victim’s behalf. Users’ session cookie, IP address, window domain credentials are ways websites identify the specific credentials associated with
-      the website. When users’ credentials are authenticated to that website, they cannot distinguish between the forged request and a legitimate request where the threat actor can perform certain functions.
-
-  - <b>NMAP Lab </b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-  - <b>Wireshark</b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
-  - <b>Credential Harvester</b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-  - <b>Password Hashing</b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
-  - <b> Dark Web - Tor Browser</b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-  - <b>Windows Security Log</b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
+- <b> Cryptography Lab (Secret Key Encryption) </b>
+  - [Cryptography Lab (Secret Key Encryption)](https://github.com/JoeLeeTech/Cryptography-Lab-Secret-Key-Encryption-)
+  - Types of Algorithm(s)
+    1) Advanced Encryption Standard = aes
+    2) Data Encryption Standard = des (Designed to encrypt / decrypt utilizing 8-byte blocks and 64-bit key)
+    3) Blowfish = bf (Utilizes variable size key and is a block cipher which operates with 64-bit of data)
+  - Types of Mode(s)
+    1) Electronic Code Book = ecb
+    2) Cipher Block Chaining = cbc
+    3) Cipher Feedback = cfb
+    4) Output Feedback = ofb
+- <b> SQL Injection (SQLi) Lab </b>
+  - [SQL Injection (SQLi Lab)](https://github.com/JoeLeeTech/SQL-Injection-SQLi-Lab)
+  - SQL injection is a technique that inserts a string of text(s) to send certain commands that communicate with the backend database to exploit sensitive data from the database, modify database data, and / or gain administrative privileges at the root. This can be done through the user
+    interface as well as through the terminal.
+- <b> Cross-Site Request Forgery (CSRF) Attack </b>
+  - [Personal Portfolio Website](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
+  - A technique that deceives victims from malicious requests by inheriting the identity and certain privileges to perform a certain output on the victim’s behalf. Users’ session cookie, IP address, window domain credentials are ways websites identify the specific credentials associated with
+    the website. When users’ credentials are authenticated to that website, they cannot distinguish between the forged request and a legitimate request where the threat actor can perform certain functions.
+- <b> Buffer-Overflow Vulnerability Lab </b>
+  - [Buffer-Overflow Vulnerability Lab](https://github.com/JoeLeeTech/Buffer-Overflow-Attack-Lab)
+  - Simulated buffer overflow attack lab.
+    
+- <b>NMAP Lab </b>
+- <b>Wireshark</b>
+- <b>Credential Harvester</b>
+- <b>Password Hashing</b>
+- <b> Dark Web - Tor Browser</b>
+- <b>Windows Security Log</b>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -58,14 +43,6 @@
   - <b>Joe Lee Website (Personal Portfolio)</b>
     - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
     - Technology Stack: JavaScript, HTML, and CSS
-      
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
