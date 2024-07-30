@@ -5,15 +5,27 @@
   
 <h2>🔐 Cybersecurity Labs:</h2>
 
-  - <b> Cryptography Secret-Key Encryption Lab </b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-  - <b> SQL Injection Lab </b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
+  - <b> Cryptography Lab (Secret Key Encryption) </b>
+    - [Cryptography Lab (Secret Key Encryption)](https://github.com/JoeLeeTech/CryptographySecretKeyEncryption-Lab)
+    - Types of Algorithm(s)
+      1) Advanced Encryption Standard = aes
+      2) Data Encryption Standard = des (Designed to encrypt / decrypt utilizing 8-byte blocks and 64-bit key)
+      3) Blowfish = bf (Utilizes variable size key and is a block cipher which operates with 64-bit of data)
+    - Types of Mode(s)
+      1) Electronic Code Book = ecb
+      2) Cipher Block Chaining = cbc
+      3) Cipher Feedback = cfb
+      4) Output Feedback = ofb
+         
+  - <b> SQL Injection (SQLi) Lab </b>
+    - [SQL Injection (SQLi Lab)](https://github.com/JoeLeeTech/SQLInjection-SQLi-)
+    - SQL injection is a technique that inserts a string of text(s) to send certain commands that communicate with the backend database to exploit sensitive data from the database, modify database data, and / or gain administrative privileges at the root. This can be done through the user
+      interface as well as through the terminal.
+      
   - <b> Buffer-Overflow Vulnerability Lab </b>
     - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
+      
   - <b> Cross-Site Request Forgery (CSRF) Attack </b>
     - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
     - Technology Stack: JavaScript, HTML, and CSS
