@@ -39,6 +39,10 @@
     - [Identity Access Management (IAM) Website - Role Based Access Control](https://github.com/JoeLeeTech/Identity-Access-Management-IAM-Website-Role-Based-Access-Control)
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
 
+<h2>📝 Certificates</h2>
+
+[CompTIA Security+  Certificate (SY0-701).pdf](https://github.com/user-attachments/files/16433046/CompTIA.Security%2B.Certificate.SY0-701.pdf)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
