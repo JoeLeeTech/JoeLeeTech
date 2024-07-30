@@ -37,12 +37,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - <b>Identity Access Management (IAM) Website </b>
-    - [Role-Based Access Security Control](https://github.com/joshmadakor1/Algorithms-Practice)
+  - <b>Identity Access Management (IAM) Website - Role Based Access Control</b>
+    - [Identity Access Management (IAM) Website - Role Based Access Control](https://github.com/JoeLeeTech/Identity-Access-Management-IAM-Website-Role-Based-Access-Control)
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
-  - <b>Joe Lee Website (Personal Portfolio)</b>
-    - [Personal Portfolio Website](https://github.com/joshmadakor1/Algorithms-Practice)
-    - Technology Stack: JavaScript, HTML, and CSS
 
 <h2> 🤳 Connect with me:</h2>
 
