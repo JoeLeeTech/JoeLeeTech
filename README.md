@@ -16,15 +16,13 @@
     4) Output Feedback = ofb
 - <b> SQL Injection (SQLi) Lab </b>
   - [SQL Injection (SQLi Lab)](https://github.com/JoeLeeTech/SQL-Injection-SQLi-Lab)
-  - SQL injection is a technique that inserts a string of text(s) to send certain commands that communicate with the backend database to exploit sensitive data from the database, modify database data, and / or gain administrative privileges at the root. This can be done through the user
-    interface as well as through the terminal.
+  - Explored SQL injection vulnerabilities by exploiting a web application designed with common developer mistakes. Demonstrated the impact of SQL injection attacks and implemented techniques to defend against them. Topics covered include SQL SELECT and UPDATE statements, SQL injection methods, and the use of prepared statements to enhance security. 
 - <b> Cross-Site Request Forgery (CSRF) Attack </b>
   - [Cross-Site Request Forgery (CSRF) Attack Lab ](https://github.com/JoeLeeTech/Cross-Site-Request-Forgery-Attack-Lab)
-  - A technique that deceives victims from malicious requests by inheriting the identity and certain privileges to perform a certain output on the victim’s behalf. Users’ session cookie, IP address, window domain credentials are ways websites identify the specific credentials associated with
-    the website. When users’ credentials are authenticated to that website, they cannot distinguish between the forged request and a legitimate request where the threat actor can perform certain functions.
+  - Conducted a CSRF attack on the Elgg social networking web application to understand and exploit CSRF vulnerabilities. Implemented and tested countermeasures including secret tokens and same-site cookies. Gained experience with HTTP GET and POST requests, JavaScript, and Ajax to enhance web application security.
 - <b> Buffer-Overflow Vulnerability Lab </b>
   - [Buffer-Overflow Vulnerability Lab](https://github.com/JoeLeeTech/Buffer-Overflow-Attack-Lab)
-  - Simulated buffer overflow attack lab.
+  - Exploited buffer overflow vulnerabilities to gain root privileges and alter program control flow. Analyzed and evaluated protection mechanisms like address randomization, non-executable stacks, and StackGuard. Topics covered included stack layout, shellcode, and buffer overflow mitigation techniques.
     
 - <b>NMAP Lab </b>
 - <b>Wireshark</b>
