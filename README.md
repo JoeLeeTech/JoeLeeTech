@@ -38,6 +38,7 @@
     - Technology Stack: ASP.NET, C#, Microsoft Azure, and SQL Server
 
 <h2>📝 Certificates</h2>
+
 [CompTIA Security+  Certificate (SY0-701).pdf](https://github.com/user-attachments/files/18323584/Public.CompTIA.Security%2B.Certificate.SY0-701.pdf)
 
 <h2> 🤳 Connect with me:</h2>
